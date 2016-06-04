@@ -3,8 +3,8 @@ title: Microdust
 header-img: "img/autumn2.jpg"
 tagline: "诸葛不亮"  
 description: "abcdefg"  
-baseurl: "/blog"
-url: "http://jhmaster.github.io"  
+baseurl: ""
+url: "http://jhmaster.github.io/blog"  
 #url: "http://localhost:4000"
 
 # About/contact
