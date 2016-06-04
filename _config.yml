@@ -3,7 +3,7 @@ title: Microdust
 header-img: "img/autumn2.jpg"
 tagline: "月光恋歌"  
 description: "abcdefg"  
-baseurl: "/blog"
+baseurl: ""
 url: "http://yueguangliange.github.io"  
 #url: "http://localhost:4000"
 
